@@ -22,4 +22,3 @@ class Student:
         jokes on oyu
         """
         return self.__dict__.copy()
-    
